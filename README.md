@@ -1,7 +1,15 @@
-## Hi there 👋
+## Hiya there 👋
+Loonix
+
+check out stats (only public repos) (I mainly work in private repos)
+<br>
+![cyklers's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYKLER01&show_icons=true&theme=algolia)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYKLER01&layout=donut&theme=algolia)
+<br>
+![Stuff](https://streak-stats.demolab.com/?user=CYKLER01&type=streak&theme=algolia)
 
 <!--
-**CYKLER01/cykler01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CYKLER01/CYKLER01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
