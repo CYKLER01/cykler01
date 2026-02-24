@@ -8,6 +8,103 @@ My main current focus is backend, devops and networking, mainly relating to serv
 
 ---
 
+### 🛠️ Tools & Technologies
+
+#### Core Stack
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="Arch Linux" />
+      <br>Arch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+      <br>Cloudflare
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+      <br>K8s
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" />
+      <br>Neovim
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nix" width="48" height="48" alt="NixOS" />
+      <br>NixOS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redhat" width="48" height="48" alt="RedHat" />
+      <br>RedHat
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>Other Tools & Technologies Disclosure</b></summary>
+  <br/>
+  <table>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino"/><br>Arduino</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte"/><br>SvelteKit</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"/><br>C#</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br>HTML5</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="Debian"/><br>Debian</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord"/><br>Discord</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET"/><br>.NET</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>Git</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/><br>Grafana</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali"/><br>Kali</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br>Linux</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua"/><br>Lua</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown"/><br>Markdown</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mint" width="48" height="48" alt="Mint"/><br>Mint</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm"/><br>npm</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" alt="Obsidian"/><br>Obsidian</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/><br>Python</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Pi Pico"/><br>Pi Pico</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite"/><br>SQLite</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br>TS</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu"/><br>Ubuntu</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity"/><br>Unity</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal"/><br>Unreal</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim"/><br>Vim</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>VS Code</td>
+    </tr>
+    <tr>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows"/><br>Windows</td>
+    </tr>
+  </table>
+</details>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
