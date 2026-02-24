@@ -1,24 +1,35 @@
-## Hiya there 👋
-Loonix
+# 👋 Hi, I'm Cykler!
 
-check out stats (only public repos) (I mainly work in private repos)
-<br>
-![cyklers's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYKLER01&show_icons=true&theme=algolia)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYKLER01&layout=donut&theme=algolia)
-<br>
-![Stuff](https://streak-stats.demolab.com/?user=CYKLER01&type=streak&theme=algolia)
+**Electronics Enthusiast & Software Developer**
 
-<!--
-**CYKLER01/CYKLER01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between hardware and software, specializing in everything from custom mechanical keyboards and 3D printing to Python-based Discord bots and Rust terminal applications.
 
-Here are some ideas to get you started:
+My main current focus is backend, devops and networking, mainly relating to server maintenance, software deployment, development streamlining and network security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CYKLER01&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYKLER01&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CYKLER01&theme=tokyonight" alt="GitHub Streak" height="150" />
+</div>
+
+---
+
+### 🛠️ Specialties & Tech
+
+- **Backend & Tools:** Python (Discord bots), Rust (CLI tools), C++ (Low-level/Hardware).
+- **Web:** SvelteKit (Portfolio), HTML/CSS/JS.
+- **Hardware:** 3D Printing, Mechanical Keyboards (Pi Pico/Macros), Soldering.
+- **Key Projects:** [cyklerbot](https://discord.com/oauth2/authorize?client_id=1244899269555654686) · [TurboPad](https://makerworld.com/en/models/1582510-turbopad-macro-pad-with-rotary-encoder-pi-pico) · [CSTimer TUI](https://github.com/CYKLER01/cstimertui)
+
+---
+
+### 📪 Connect with Me
+
+- 🌐 [cykler.dev](https://cykler.dev)
+- 📧 [cykler.dev@proton.me](mailto:cykler.dev@proton.me)
+- 💬 cykler on discord
