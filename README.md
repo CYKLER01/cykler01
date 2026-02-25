@@ -66,22 +66,22 @@ My main current focus is backend, devops and networking, mainly relating to serv
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino"/><br>Arduino</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte"/><br>SvelteKit</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#"/><br>C#</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br>HTML5</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="Debian"/><br>Debian</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu"/><br>Ubuntu</td>
     </tr>
     <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord"/><br>Discord</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET"/><br>.NET</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows"/><br>Windows</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>Git</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/><br>Grafana</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali"/><br>Kali</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim"/><br>Vim</td>
     </tr>
     <tr>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br>Linux</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua"/><br>Lua</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="Markdown"/><br>Markdown</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mint" width="48" height="48" alt="Mint"/><br>Mint</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm"/><br>npm</td>
+      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>VS Code</td>
     </tr>
     <tr>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=obsidian" width="48" height="48" alt="Obsidian"/><br>Obsidian</td>
@@ -89,16 +89,6 @@ My main current focus is backend, devops and networking, mainly relating to serv
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Pi Pico"/><br>Pi Pico</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite"/><br>SQLite</td>
       <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br>TS</td>
-    </tr>
-    <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" height="48" alt="Ubuntu"/><br>Ubuntu</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity"/><br>Unity</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal"/><br>Unreal</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim"/><br>Vim</td>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>VS Code</td>
-    </tr>
-    <tr>
-      <td align="center" width="96"><img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows"/><br>Windows</td>
     </tr>
   </table>
 </details>
